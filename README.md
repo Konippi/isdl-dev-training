@@ -1,8 +1,8 @@
-# 2024-09-24
+# ISDL Dev Training :pencil2:
 
-## 習得して欲しい技術
+## 開催履歴 :books:
 
-- APIによるBackendとFrontendの連携
-- Git
-- Docker
-- DB設計
+#### 2024/09/24（火）
+- [ ] [DB勉強会](./docs/1_DB/README.md)
+  - DBの分類
+  - DB設計

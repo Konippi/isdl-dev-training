@@ -113,7 +113,6 @@ RDBMSのようなSQLを使用しないDBの総称
 
 (by https://www.geeksforgeeks.org/introduction-to-nosql-cloud-database-services/)
 
-
 - Pros
   - 関係を扱わないため結合がなく、データの読み書きが高速
   - SQLを使用しないため、スキーマレスで柔軟なデータ構造が可能（RDBMSにおけるスキーマとはDBの構造）
